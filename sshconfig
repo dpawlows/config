@@ -50,3 +50,6 @@ Host github.com
   	HostName github.com
   	User git
   	IdentityFile ~/.ssh/id_rsa
+
+Host manara
+     HostName 73.145.166.168
